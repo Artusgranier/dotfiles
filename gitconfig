@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = artus.granier@live.fr
+	name = Artus Granier
